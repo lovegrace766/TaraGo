@@ -1,0 +1,51 @@
+
+[
+    {
+    "name": "Dahilayan Adventure Park",
+    "description": "A thrill-seeker’s paradise located in Manolo Fortich, Bukidnon offering activities such as zipline, luge, and other outdoor adventures amidst cool mountain air.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoUdKdAN8A8Tx2BLP6Lar5Ib2NaYAULnI3tQ&s",
+    "lat": 8.2042329,
+    "lng": 124.8571755
+    },
+    
+    {
+    "name": "Camp Phillips",
+    "description": "A charming community built around the Del Monte pineapple plantation known for its huge pineapple landmark and rich agricultural heritage.",
+    "img": "https://farm5.static.flickr.com/4153/4834132930_391359dace.jpg",
+    "lat": 8.3299111,
+    "lng": 124.8133511
+  },
+  {
+    "name": "Cinchona Forest Reserve",
+    "description": "A serene forest area known for its scenic canopy walkway, lush greenery, and biodiversity ideal for nature lovers and eco-tourists.",
+    "img": "https://i0.wp.com/graciestrips.wordpress.com/wp-content/uploads/2016/02/img_3713.jpg?w=440&h=589&ssl=1",
+    "lat": 8.139647, 
+    "lng": 124.916860
+  },
+  {
+    "name": "Mangima Canyon",
+    "description": "A breathtaking canyon view located in Manolo Fortich featuring deep gorges and lush landscapes that provide a perfect spot for photography and sightseeing.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTwI1fFjiVaxkoelTdeVwERKYAlZj_qL7Nw&s",
+    "lat": 8.37592, 
+    "lng": 124.88530
+  },
+  {
+    "name": "Kampo Ni Juan",
+    "description": "A cozy type of old house for tourists that offers a glimpse into the past with its rustic architecture and relaxing countryside ambiance.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_8F5ERzc6drDjmWaG_889xDTiv6wFlv66Q&s",
+    "lat": 8.37688, 
+    "lng": 124.84524
+  },
+  {
+    "name": "Alpine Village",
+    "description": "A European-inspired village nestled in the highlands of Bukidnon featuring cozy retreats, nature exploration, and picturesque surroundings.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YPaxreCKlUk2mBmZyNGOg0rg9hWoa4K__A&s",
+    "lat": 8.270877, 
+    "lng": 124.857312
+  }
+]
+
+
+
+
+
